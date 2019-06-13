@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:c984eca8:/home/ming/IdeaProjects/MillTest/app/resources",
+        "ref:9d9e1acf:/home/ming/IdeaProjects/MillTest/out/app/compile/dest/classes",
+        "qref:26436e85:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.jar"
+    ],
+    "valueHash": 1877274954,
+    "inputsHash": 933774362
+}

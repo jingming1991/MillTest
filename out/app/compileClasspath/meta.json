@@ -1,0 +1,14 @@
+{
+    "value": [
+        "ref:c984eca8:/home/ming/IdeaProjects/MillTest/app/resources",
+        "qref:b27f75c5:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar",
+        "qref:19002cde:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/1.3.1/cats-effect_2.12-1.3.1.jar",
+        "qref:30a5bc19:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.6.0/cats-macros_2.12-1.6.0.jar",
+        "qref:26436e85:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.jar",
+        "qref:36deeb1b:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.6.0/cats-core_2.12-1.6.0.jar",
+        "qref:efab7322:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.6/machinist_2.12-0.6.6.jar",
+        "qref:6f583709:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.6.0/cats-kernel_2.12-1.6.0.jar"
+    ],
+    "valueHash": -2117054673,
+    "inputsHash": -748126860
+}

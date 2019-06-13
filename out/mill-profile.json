@@ -1,0 +1,282 @@
+[
+    {
+        "label": "mill.scalalib.ZincWorkerModule.scalalibClasspath",
+        "millis": 20,
+        "cached": true
+    },
+    {
+        "label": "app.test.forkArgs",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.forkEnv",
+        "millis": 5,
+        "cached": true
+    },
+    {
+        "label": "app.test.testFrameworks",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.resources",
+        "millis": 76,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 5,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.compilerInterfaceClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 59,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.upstreamCompileOutput",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.sources",
+        "millis": 12,
+        "cached": false
+    },
+    {
+        "label": "app.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.allSources",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.allSourceFiles",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.transitiveLocalClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.resources",
+        "millis": 4,
+        "cached": false
+    },
+    {
+        "label": "app.unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.compileIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaLibraryIvyDeps",
+        "millis": 16,
+        "cached": true
+    },
+    {
+        "label": "app.ivyDeps",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "app.transitiveIvyDeps",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "app.compileClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.javacOptions",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.scalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaCompilerClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.scalacPluginIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.compile",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.upstreamCompileOutput",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.sources",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "app.test.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.allSources",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "app.test.allSourceFiles",
+        "millis": 6,
+        "cached": false
+    },
+    {
+        "label": "app.localClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.unmanagedClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.scalaOrganization",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.scalaLibraryIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.ivyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.transitiveIvyDeps",
+        "millis": 3,
+        "cached": true
+    },
+    {
+        "label": "app.test.compileClasspath",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "app.test.scalaCompilerClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.test.compile",
+        "millis": 6479,
+        "cached": false
+    },
+    {
+        "label": "app.test.localClasspath",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "app.test.runIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.upstreamAssemblyClasspath",
+        "millis": 2,
+        "cached": true
+    },
+    {
+        "label": "app.test.runClasspath",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "app.test.forkWorkingDir",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.test.test",
+        "millis": 1238,
+        "cached": false
+    }
+]

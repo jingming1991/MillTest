@@ -1,0 +1,24 @@
+{
+    "value": [
+        "ref:c984eca8:/home/ming/IdeaProjects/MillTest/app/test/resources",
+        "ref:11c27052:/home/ming/IdeaProjects/MillTest/out/app/test/compile/dest/classes",
+        "ref:c984eca8:/home/ming/IdeaProjects/MillTest/app/resources",
+        "ref:9d9e1acf:/home/ming/IdeaProjects/MillTest/out/app/compile/dest/classes",
+        "qref:b27f75c5:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.4/scala-reflect-2.12.4.jar",
+        "qref:19002cde:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/1.3.1/cats-effect_2.12-1.3.1.jar",
+        "qref:3b483bc7:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-core/2.19.0/mockito-core-2.19.0.jar",
+        "qref:30a5bc19:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.6.0/cats-macros_2.12-1.6.0.jar",
+        "qref:15a19ebd:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/utest_2.12/0.6.3/utest_2.12-0.6.3.jar",
+        "qref:d5ec4c64:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.8.10/byte-buddy-agent-1.8.10.jar",
+        "qref:ee38434d:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+        "qref:26436e85:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.jar",
+        "qref:36deeb1b:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.6.0/cats-core_2.12-1.6.0.jar",
+        "qref:efab7322:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.6/machinist_2.12-0.6.6.jar",
+        "qref:90659694:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar",
+        "qref:240741d3:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.8.10/byte-buddy-1.8.10.jar",
+        "qref:6f583709:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.6.0/cats-kernel_2.12-1.6.0.jar",
+        "qref:a4a1741a:/home/ming/.cache/coursier/v1/https/repo1.maven.org/maven2/org/mockito/mockito-scala_2.12/0.0.7/mockito-scala_2.12-0.0.7.jar"
+    ],
+    "valueHash": -648313489,
+    "inputsHash": -1064077742
+}
